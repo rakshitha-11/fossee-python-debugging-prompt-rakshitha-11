@@ -12,3 +12,13 @@ This repository contains my submission for Python Screening Task 2: Write a Prom
 
 ## Submission
 As per task instructions, this repository link will be emailed to pythonsupport@fossee.in.
+
+## Future Work
+
+Some ideas to extend this project in the future:
+- Real-time AI Integration: Connect the debugging assistant with open-source LLM APIs for instant student feedback.
+- Multilingual Hints: Provide hints in regional languages for wider accessibility.
+- Beginner vs Advanced Mode: Auto-adjust hint complexity based on user skill level.
+- Web Application: Deploy as a simple web app so students can paste code and get hints instantly.
+- Automated Evaluation: Add scripts for mentors to test hint quality and coverage quickly.
+
