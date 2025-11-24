@@ -1,6 +1,6 @@
-# FOSSEE Python Screening Task 2 — AI Debugging Assistant Prompt
+# FOSSEE — AI Debugging Assistant Prompt
 
-a Prompt for an AI Debugging Assistant.
+Prompt for an AI Debugging Assistant.
 
 ## Files Included
 - PROMPT.md — Full debugging prompt
